@@ -1,0 +1,8 @@
+I have been learned more about building blocks in Simulink that enable us to create dynamic systems by connecting them in a modle .
+each block do a spacific purpose in performing the mathmatical operations 
+[constant, display results, gain, sum, product,].
+1- product plock  ==> to multiplies two input segnals and produce the product as outpot.
+2- constant block ==> to generate constant values.
+3- display block  ==> to visualize the value of a signals.
+4- Gain block     ==> to multiplies the signals input by constant factor.
+5- Sum block      ==> to adds or subtract inputs to gether.
